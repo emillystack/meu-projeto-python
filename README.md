@@ -33,4 +33,11 @@ Os desafios foram realizados com foco em:
 - Estruturas de repetição (`for`, `while`)
 - Trabalhar com listas, tuplas e dicionários
 - Início em projetos simples com interação no terminal
-- Explorar HTML, CSS e
+- Explorar HTML, CSS e JavaScript em paralelo
+
+---
+
+> 💬 Este repositório representa meu início prático no mundo da programação.  
+> Estou documentando cada etapa da minha jornada com o objetivo de crescer na área de tecnologia e buscar minha primeira oportunidade na área.
+
+---
